@@ -7,7 +7,7 @@ aisle = 5
 message = (
         "We have dairy and bakery items :"
         + dairy1 + ", "
-        + dairy2 + ", and"
+        + dairy2 + ", and "
         + bakery1 
         + " in aisle "
         + str(aisle)
