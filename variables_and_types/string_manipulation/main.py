@@ -5,7 +5,7 @@ bakery1 = grocery_items[12:17]
 aisle = 5
 
 message = (
-        "We have dairy and bakery items :"
+        "We have dairy and bakery items: "
         + dairy1 + ", "
         + dairy2 + ", and "
         + bakery1 
